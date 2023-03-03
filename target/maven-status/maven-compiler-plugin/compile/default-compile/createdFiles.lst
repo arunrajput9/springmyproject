@@ -1,0 +1,5 @@
+com\nagarro\modal\Product.class
+com\nagarro\service\ProductService.class
+com\nagarro\SpringProjectApplication.class
+com\nagarro\controller\ProductController.class
+com\nagarro\service\IProductService.class
